@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <flink.version>1.10.0</flink.version>
+        <flink.version>1.10.1</flink.version>
         <jmh.version>1.17.5</jmh.version>
     </properties>
 
